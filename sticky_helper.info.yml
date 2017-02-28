@@ -1,0 +1,5 @@
+name: Br Sticky Helper
+type: module
+description: Privides a Br Sticky Helper block
+core: 8.x
+package: Br
